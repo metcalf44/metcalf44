@@ -8,6 +8,6 @@
 ### Connect with me 
 
 - Email: emetcalf44@gmail.com
-- Twitter: https://twitter.com/Emetcalf44
-- Linkedin: https://www.linkedin.com/in/ernie-metcalf/
+- Twitter: <a href="https://twitter.com/Emetcalf44">Emetcalf44</a>
+- Linkedin: <a href="https://www.linkedin.com/in/ernie-metcalf/">Ernie-Metcalf</a>
 
