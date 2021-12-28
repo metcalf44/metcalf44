@@ -18,6 +18,5 @@
 
 <img
      align="left" alt="metcalff44's github stats"
-     src="https://github-readme-stats.vercel.app/api?username=metcalf44
-          &show_icons=true&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api?username=metcalf44&show_icons=true&theme=tokyonight"
      />
