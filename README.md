@@ -9,5 +9,5 @@
 
 - Email: emetcalf44@gmail.com
 - Twitter: https://twitter.com/Emetcalf44
-- Linkden: https://www.linkedin.com/in/ernie-metcalf/
+- Linkedin: https://www.linkedin.com/in/ernie-metcalf/
 
