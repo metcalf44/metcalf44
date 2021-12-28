@@ -9,6 +9,7 @@
 
 ### Connect with me 
 
+<!-- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Emetcalf44.svg?style=social&label=Emetcalf44)](https://twitter.com/Emetcalf44) -->
 - Email: emetcalf44@gmail.com
 - Twitter: <a href="https://twitter.com/Emetcalf44">Emetcalf44</a>
 - Linkedin: <a href="https://www.linkedin.com/in/ernie-metcalf/">Ernie-Metcalf</a>
@@ -20,4 +21,3 @@
      src="https://github-readme-stats.vercel.app/api?username=metcalf44
           &show_icons=true&theme=tokyonight"
      />
-
